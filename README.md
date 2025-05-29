@@ -38,13 +38,12 @@ This project presents a comprehensive analysis of pizza sales using SQL. The ins
 
 ## 📄 Project File
 
-- [`pizza_sales_analysis.pdf`](./pizza_sales_analysis.pdf) – Summary of all findings and visualizations.
+🔗 [Click here to view the PDF report](https://santajivhankade.github.io/pizzahut_sales_analysis_sql/pizzahut_sales_analysis-sql.pdf)
 
 ---
 
 ## 🧑‍💻 Author
 
-- **Name**: Santaji Narendra Vhankade
-- **LinkedIn**: www.linkedin.com/in/santaji-vhankade
+- **Name**: Santaji Vhankade  
+- **LinkedIn**: https://www.linkedin.com/in/santaji-vhankade
 - **Email**: santajivhankade@gmail.com
-
