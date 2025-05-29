@@ -36,11 +36,6 @@ This project presents a comprehensive analysis of pizza sales using SQL. The ins
 - Business Intelligence & Insights
 - Presentation & Reporting
 
-## 📄 Project File
-
-🔗 [Click here to view the PDF report](https://santajivhankade.github.io/pizzahut_sales_analysis_sql/pizzahut_sales_analysis-sql.pdf)
-
----
 
 ## 🧑‍💻 Author
 
